@@ -1,1 +1,2 @@
 # OperationalSystems
+For educational purposes
